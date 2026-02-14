@@ -1,2 +1,3 @@
 # afdf
-print(5)
+print(50)
+print("hello")
